@@ -1,0 +1,4 @@
+﻿build/
+*.pdb
+*.png
+*.disasm.txt

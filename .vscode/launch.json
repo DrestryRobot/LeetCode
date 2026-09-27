@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run leetcode.cpp",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}\\build\\leetcode.exe",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "preLaunchTask": "Build leetcode.cpp"
+        }
+    ]
+}
